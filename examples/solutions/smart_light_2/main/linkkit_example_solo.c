@@ -19,10 +19,10 @@ static const char *TAG = "solo";
 #define USE_CUSTOME_DOMAIN      (0)
 
 // for demo only
-#define PRODUCT_KEY      "a1aKaGH1p4d"
-#define PRODUCT_SECRET   "thXiCflzwSOzxkko"
-#define DEVICE_NAME      "Test_equameng_1"
-#define DEVICE_SECRET    "zS06q4K0zpNANffPnwHGXhQY9YHwie3Y"
+#define PRODUCT_KEY      "a1HsnIOKpe0"
+#define PRODUCT_SECRET   "FaBzs9vRIuEU64rV"
+#define DEVICE_NAME      "esp_32_test"
+#define DEVICE_SECRET    "GxTP4omMtN3XtB5JnF7qsFHM2jeI5ZQN"
 
 #if USE_CUSTOME_DOMAIN
     #define CUSTOME_DOMAIN_MQTT     "iot-as-mqtt.cn-shanghai.aliyuncs.com"
